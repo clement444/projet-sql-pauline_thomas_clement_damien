@@ -1,5 +1,3 @@
--- TP2 SQL avance - Projet salle de sport
--- Executez ce fichier avant seed.sql.
 DROP VIEW IF EXISTS bilan_mensuel;
 DROP TABLE IF EXISTS reservations, cours, adherents, coachs, categories CASCADE;
 
